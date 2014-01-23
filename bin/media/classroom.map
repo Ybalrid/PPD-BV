@@ -1,0 +1,33 @@
+Object GROUND.mesh
+PhysicShape BOX 0
+EndObject
+
+Object Desk.mesh
+Pos -0.0914225 -0.0305215 -2.97335
+PhysicShape BOX 5
+EndObject
+
+Object Desk.mesh
+Pos 0 0 2.5
+PhysicShape BOX 5
+EndObject
+
+Object Desk.mesh
+PhysicShape BOX 5
+EndObject
+
+Object Cube.mesh
+Scale 1 1.75 1
+Pos 1 0.875 0 
+PhysicShape BOX 100
+EndObject
+
+Object Cube.mesh
+Pos 1 0.875 3
+PhysicShape BOX 100
+EndObject
+
+Object Screen.mesh
+Pos 1 1 1 
+PhysicShape BOX 100
+EndObject

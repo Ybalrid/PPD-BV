@@ -1,0 +1,28 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.so.*
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+#log files
+*.log
+
+#vim swap files 
+*.swp
+.*.swp
+
+#ogre config
+ogre.cfg
+
+#Compilled Executable
+bin/ppd
+
