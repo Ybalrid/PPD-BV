@@ -4,7 +4,7 @@ using namespace Annwvyn;
 
 int main(void)
 {
-    AnnEngine* GameEngine = new AnnEngine;
+    AnnEngine* GameEngine = new AnnEngine("PPD Balade Virtuelle");
     
    // GameEngine->getBodyParams()->eyeHeight = 1.65f;
 
@@ -14,12 +14,6 @@ int main(void)
     GameEngine->loadDir("media/male");
     GameEngine->initRessources();
     
-/*  AnnGameObject* Desk = GameEngine->createGameObject("Desk.mesh");
-    Desk->setPos(-0.5,-1.3,9.5);
-    
-    AnnLightObject* DeskLight = GameEngine->addLight();
-    DeskLight->setPosition(-1,1,9);
-*/
 
     AnnLightObject* l = GameEngine->addLight();
     
@@ -32,31 +26,21 @@ int main(void)
 
     GameEngine->oculusInit();
     
-//    GameEngine->setDebugPhysicState(true);
 
     AnnMap(GameEngine, "media/classroom.map");
     
-/*    AnnGameObject* npc = GameEngine->createGameObject("basichBody.mesh");
-    npc->node()->setScale(0.1,0.1,0.1);
-
-    npc->setPos(0,1,1);
     
-    npc->setAnimation("Walk");
-    npc->playAnimation(true);
-    npc->loopAnimation(true);
-
-    npc->setUpBullet(80,boxShape);*/
-    
+    //configure joystick
     JoystickController joystickController(GameEngine);
     joystickController.setRotateAxis(3);
     joystickController.setReverseRotate(false);
+    
     while(!GameEngine->requestStop())
     {
+        //update joystick
         joystickController.update();
-/*        std::cerr << "Player height : " << GameEngine->getBodyParams()->eyeHeight << std::endl;
-        std::cerr << "node height : " << GameEngine->getBodyParams()->Position.y << std::endl;
-        std::cerr << "camera height : "  << GameEngine->getCamera()->getPosition().y << std::endl;*/
         
+        //update view
         GameEngine->refresh();
     }
     
