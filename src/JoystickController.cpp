@@ -133,7 +133,7 @@ void JoystickController::debug(void)
 //set stick deadzone (between 0 & 1)
 void JoystickController::setDeadzone(float threshold)
 {
-    if(threshlod >= 0 && threshold <= 1);
+    if(threshold>= 0 && threshold <= 1);
     deadzone = threshold;
 }
 
