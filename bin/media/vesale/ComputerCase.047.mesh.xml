@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mesh>
+    <sharedgeometry vertexcount="24">
+        <vertexbuffer texture_coords="0" positions="true" normals="true" colours_diffuse="False">
+            <vertex>
+                <position y="0.216477" x="0.245951" z="0.088447"/>
+                <normal y="0.341563" x="0.875576" z="0.341563"/>
+            </vertex>
+            <vertex>
+                <position y="-0.216477" x="0.245951" z="0.088447"/>
+                <normal y="-0.341563" x="0.875576" z="0.341563"/>
+            </vertex>
+            <vertex>
+                <position y="-0.216477" x="0.245951" z="-0.088446"/>
+                <normal y="-0.341563" x="0.875576" z="-0.341563"/>
+            </vertex>
+            <vertex>
+                <position y="0.216477" x="0.245951" z="-0.088446"/>
+                <normal y="0.341563" x="0.875576" z="-0.341563"/>
+            </vertex>
+            <vertex>
+                <position y="-0.216477" x="-0.245951" z="0.088446"/>
+                <normal y="-0.341563" x="-0.875576" z="0.341563"/>
+            </vertex>
+            <vertex>
+                <position y="0.216477" x="-0.245951" z="0.088446"/>
+                <normal y="0.341563" x="-0.875576" z="0.341563"/>
+            </vertex>
+            <vertex>
+                <position y="0.216477" x="-0.245951" z="-0.088447"/>
+                <normal y="0.341563" x="-0.875576" z="-0.341563"/>
+            </vertex>
+            <vertex>
+                <position y="-0.216477" x="-0.245951" z="-0.088447"/>
+                <normal y="-0.341563" x="-0.875576" z="-0.341563"/>
+            </vertex>
+            <vertex>
+                <position y="-0.216477" x="-0.234798" z="-0.099600"/>
+                <normal y="-0.341563" x="-0.341563" z="-0.875576"/>
+            </vertex>
+            <vertex>
+                <position y="0.216477" x="-0.234798" z="-0.099600"/>
+                <normal y="0.341563" x="-0.341563" z="-0.875576"/>
+            </vertex>
+            <vertex>
+                <position y="0.216477" x="0.234798" z="-0.099600"/>
+                <normal y="0.341563" x="0.341563" z="-0.875576"/>
+            </vertex>
+            <vertex>
+                <position y="-0.216477" x="0.234798" z="-0.099600"/>
+                <normal y="-0.341563" x="0.341563" z="-0.875576"/>
+            </vertex>
+            <vertex>
+                <position y="0.227630" x="0.234798" z="0.088447"/>
+                <normal y="0.875576" x="0.341563" z="0.341563"/>
+            </vertex>
+            <vertex>
+                <position y="0.227630" x="0.234798" z="-0.088446"/>
+                <normal y="0.875576" x="0.341563" z="-0.341563"/>
+            </vertex>
+            <vertex>
+                <position y="0.227630" x="-0.234798" z="-0.088447"/>
+                <normal y="0.875576" x="-0.341563" z="-0.341563"/>
+            </vertex>
+            <vertex>
+                <position y="0.227630" x="-0.234798" z="0.088446"/>
+                <normal y="0.875576" x="-0.341563" z="0.341563"/>
+            </vertex>
+            <vertex>
+                <position y="-0.216477" x="0.234798" z="0.099600"/>
+                <normal y="-0.341563" x="0.341563" z="0.875576"/>
+            </vertex>
+            <vertex>
+                <position y="0.216477" x="0.234798" z="0.099600"/>
+                <normal y="0.341563" x="0.341563" z="0.875576"/>
+            </vertex>
+            <vertex>
+                <position y="0.216477" x="-0.234798" z="0.099600"/>
+                <normal y="0.341563" x="-0.341563" z="0.875576"/>
+            </vertex>
+            <vertex>
+                <position y="-0.216477" x="-0.234798" z="0.099600"/>
+                <normal y="-0.341563" x="-0.341563" z="0.875576"/>
+            </vertex>
+            <vertex>
+                <position y="-0.227630" x="0.234798" z="0.088447"/>
+                <normal y="-0.875576" x="0.341563" z="0.341563"/>
+            </vertex>
+            <vertex>
+                <position y="-0.227630" x="-0.234798" z="0.088446"/>
+                <normal y="-0.875576" x="-0.341563" z="0.341563"/>
+            </vertex>
+            <vertex>
+                <position y="-0.227630" x="-0.234798" z="-0.088447"/>
+                <normal y="-0.875576" x="-0.341563" z="-0.341563"/>
+            </vertex>
+            <vertex>
+                <position y="-0.227630" x="0.234798" z="-0.088446"/>
+                <normal y="-0.875576" x="0.341563" z="-0.341563"/>
+            </vertex>
+        </vertexbuffer>
+    </sharedgeometry>
+    <submeshes>
+        <submesh use32bitindexes="False" usesharedvertices="true" operationtype="triangle_list" material="ComputerCase">
+            <faces count="44">
+                <face v3="2" v1="0" v2="1"/>
+                <face v3="3" v1="0" v2="2"/>
+                <face v3="6" v1="4" v2="5"/>
+                <face v3="7" v1="4" v2="6"/>
+                <face v3="10" v1="8" v2="9"/>
+                <face v3="11" v1="8" v2="10"/>
+                <face v3="14" v1="12" v2="13"/>
+                <face v3="15" v1="12" v2="14"/>
+                <face v3="18" v1="16" v2="17"/>
+                <face v3="19" v1="16" v2="18"/>
+                <face v3="20" v1="1" v2="16"/>
+                <face v3="4" v1="21" v2="19"/>
+                <face v3="8" v1="22" v2="7"/>
+                <face v3="23" v1="11" v2="2"/>
+                <face v3="12" v1="17" v2="0"/>
+                <face v3="18" v1="15" v2="5"/>
+                <face v3="6" v1="14" v2="9"/>
+                <face v3="13" v1="3" v2="10"/>
+                <face v3="21" v1="16" v2="19"/>
+                <face v3="20" v1="16" v2="21"/>
+                <face v3="20" v1="2" v2="1"/>
+                <face v3="23" v1="2" v2="20"/>
+                <face v3="17" v1="1" v2="0"/>
+                <face v3="16" v1="1" v2="17"/>
+                <face v3="22" v1="4" v2="7"/>
+                <face v3="21" v1="4" v2="22"/>
+                <face v3="5" v1="19" v2="18"/>
+                <face v3="4" v1="19" v2="5"/>
+                <face v3="23" v1="8" v2="11"/>
+                <face v3="22" v1="8" v2="23"/>
+                <face v3="9" v1="7" v2="6"/>
+                <face v3="8" v1="7" v2="9"/>
+                <face v3="3" v1="11" v2="10"/>
+                <face v3="2" v1="11" v2="3"/>
+                <face v3="18" v1="12" v2="15"/>
+                <face v3="17" v1="12" v2="18"/>
+                <face v3="13" v1="0" v2="3"/>
+                <face v3="12" v1="0" v2="13"/>
+                <face v3="6" v1="15" v2="14"/>
+                <face v3="5" v1="15" v2="6"/>
+                <face v3="10" v1="14" v2="13"/>
+                <face v3="9" v1="14" v2="10"/>
+                <face v3="22" v1="20" v2="21"/>
+                <face v3="23" v1="20" v2="22"/>
+            </faces>
+        </submesh>
+    </submeshes>
+    <submeshnames>
+        <submesh index="0" name="ComputerCase">
+        </submesh>
+    </submeshnames>
+</mesh>
