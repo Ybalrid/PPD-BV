@@ -1,0 +1,1203 @@
+<scene previous_export_time="1401625660.601336" export_time="1401625672.620542" formatVersion="1.0.1" exported_by="ybalrid" >
+  <nodes >
+    <node name="Point.058" >
+      <position x="8.934279" z="-15.790884" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.058" powerScale="0.1800003945827484" >
+        <position x="8.934279" z="-15.790884" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.057" >
+      <position x="9.557957" z="-8.680968" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.057" powerScale="0.1800003945827484" >
+        <position x="9.557957" z="-8.680968" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.056" >
+      <position x="-5.655311" z="2.924578" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="0.000100" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.056" powerScale="0.1800003945827484" >
+        <position x="-5.655311" z="2.924578" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.054" >
+      <position x="-6.409725" z="6.157784" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="0.000100" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.054" powerScale="0.1800003945827484" >
+        <position x="-6.409725" z="6.157784" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.052" >
+      <position x="2.966573" z="4.325634" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="0.000100" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.052" powerScale="0.1800003945827484" >
+        <position x="2.966573" z="4.325634" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.051" >
+      <position x="2.319932" z="7.558840" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="0.000100" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.051" powerScale="0.1800003945827484" >
+        <position x="2.319932" z="7.558840" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.050" >
+      <position x="-1.883236" z="7.451066" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="0.000100" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.050" powerScale="0.1800003945827484" >
+        <position x="-1.883236" z="7.451066" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.049" >
+      <position x="-1.775462" z="4.972275" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="0.000100" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.049" powerScale="0.1800003945827484" >
+        <position x="-1.775462" z="4.972275" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.048" >
+      <position x="-17.294851" z="3.247899" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="0.000100" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.048" powerScale="0.1800003945827484" >
+        <position x="-17.294851" z="3.247899" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.046" >
+      <position x="-9.966251" z="3.140125" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="0.000100" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.046" powerScale="0.1800003945827484" >
+        <position x="-9.966251" z="3.140125" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.043" >
+      <position x="3.242749" z="-21.177505" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.043" powerScale="0.1800003945827484" >
+        <position x="3.242749" z="-21.177505" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.038" >
+      <position x="-8.254333" z="-21.276619" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.038" powerScale="0.1800003945827484" >
+        <position x="-8.254333" z="-21.276619" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.035" >
+      <position x="-20.445206" z="-20.979280" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.035" powerScale="0.1800003945827484" >
+        <position x="-20.445206" z="-20.979280" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.030" >
+      <position x="-4.686274" z="0.528193" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.030" powerScale="0.1800003945827484" >
+        <position x="-4.686274" z="0.528193" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.027" >
+      <position x="3.540087" z="0.528193" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.027" powerScale="0.1800003945827484" >
+        <position x="3.540087" z="0.528193" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.008" >
+      <position x="11.865561" z="-0.760273" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.008" powerScale="0.1800003945827484" >
+        <position x="11.865561" z="-0.760273" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.007" >
+      <position x="18.208778" z="-0.958499" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.007" powerScale="0.1800003945827484" >
+        <position x="18.208778" z="-0.958499" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.096" >
+      <position x="5.328133" z="-10.546047" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.096" powerScale="0.1800003945827484" >
+        <position x="5.328133" z="-10.546047" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.095" >
+      <position x="5.290914" z="-13.655136" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.095" powerScale="0.1800003945827484" >
+        <position x="5.290914" z="-13.655136" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.094" >
+      <position x="5.338729" z="-7.056614" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.094" powerScale="0.1800003945827484" >
+        <position x="5.338729" z="-7.056614" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.093" >
+      <position x="5.177624" z="-16.640339" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.093" powerScale="0.1800003945827484" >
+        <position x="5.177624" z="-16.640339" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.092" >
+      <position x="5.375948" z="-3.947525" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.092" powerScale="0.1800003945827484" >
+        <position x="5.375948" z="-3.947525" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.086" >
+      <position x="-0.868690" z="-10.431291" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.086" powerScale="0.1800003945827484" >
+        <position x="-0.868690" z="-10.431291" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.085" >
+      <position x="-0.905909" z="-13.540380" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.085" powerScale="0.1800003945827484" >
+        <position x="-0.905909" z="-13.540380" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.084" >
+      <position x="-0.858094" z="-6.941858" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.084" powerScale="0.1800003945827484" >
+        <position x="-0.858094" z="-6.941858" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.083" >
+      <position x="-1.019199" z="-16.525583" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.083" powerScale="0.1800003945827484" >
+        <position x="-1.019199" z="-16.525583" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.082" >
+      <position x="-0.820875" z="-3.832769" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.082" powerScale="0.1800003945827484" >
+        <position x="-0.820875" z="-3.832769" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.078" >
+      <position x="-6.147465" z="-10.144401" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.078" powerScale="0.1800003945827484" >
+        <position x="-6.147465" z="-10.144401" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.077" >
+      <position x="-6.184684" z="-13.253489" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.077" powerScale="0.1800003945827484" >
+        <position x="-6.184684" z="-13.253489" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.076" >
+      <position x="-20.424379" z="-16.699940" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="0.000100" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.076" powerScale="0.1800003945827484" >
+        <position x="-20.424379" z="-16.699940" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.074" >
+      <position x="-14.155061" z="-16.768799" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="0.000100" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.074" powerScale="0.1800003945827484" >
+        <position x="-14.155061" z="-16.768799" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.071" >
+      <position x="-14.237682" z="-16.768799" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.071" powerScale="0.1800003945827484" >
+        <position x="-14.237682" z="-16.768799" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.063" >
+      <position x="-14.155093" z="-11.149966" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="0.000100" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.063" powerScale="0.1800003945827484" >
+        <position x="-14.155093" z="-11.149966" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.061" >
+      <position x="-20.424414" z="-11.081107" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="0.000100" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.061" powerScale="0.1800003945827484" >
+        <position x="-20.424414" z="-11.081107" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.055" >
+      <position x="-14.155019" z="-4.952724" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="0.000100" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.055" powerScale="0.1800003945827484" >
+        <position x="-14.155019" z="-4.952724" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.053" >
+      <position x="-20.424339" z="-4.883864" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="0.000100" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.053" powerScale="0.1800003945827484" >
+        <position x="-20.424339" z="-4.883864" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.047" >
+      <position x="-14.155011" z="-0.242819" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="0.000100" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.047" powerScale="0.1800003945827484" >
+        <position x="-14.155011" z="-0.242819" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.045" >
+      <position x="-20.424330" z="-0.173960" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="0.000100" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.045" powerScale="0.1800003945827484" >
+        <position x="-20.424330" z="-0.173960" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.044" >
+      <position x="-20.834396" z="8.777720" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="0.000100" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.044" powerScale="0.1800003945827484" >
+        <position x="-20.834396" z="8.777720" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.042" >
+      <position x="-15.754443" z="8.708861" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="0.000100" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.042" powerScale="0.1800003945827484" >
+        <position x="-15.754443" z="8.708861" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.041" >
+      <position x="-10.243652" z="8.571143" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="0.000100" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.041" powerScale="0.1800003945827484" >
+        <position x="-10.243652" z="8.571143" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.040" >
+      <position x="-10.243632" z="12.082956" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="0.000100" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.040" powerScale="0.1800003945827484" >
+        <position x="-10.243632" z="12.082956" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.039" >
+      <position x="-15.754423" z="12.220675" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="0.000100" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.039" powerScale="0.1800003945827484" >
+        <position x="-15.754423" z="12.220675" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.037" >
+      <position x="-20.834375" z="12.289534" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="0.000100" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.037" powerScale="0.1800003945827484" >
+        <position x="-20.834375" z="12.289534" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.036" >
+      <position x="-20.834396" z="15.388192" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="0.000100" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.036" powerScale="0.1800003945827484" >
+        <position x="-20.834396" z="15.388192" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.034" >
+      <position x="-15.754443" z="15.319333" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="0.000100" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.034" powerScale="0.1800003945827484" >
+        <position x="-15.754443" z="15.319333" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.033" >
+      <position x="-10.243652" z="15.181615" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="0.000100" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.033" powerScale="0.1800003945827484" >
+        <position x="-10.243652" z="15.181615" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.032" >
+      <position x="-10.243652" z="18.004837" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="0.000100" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.032" powerScale="0.1800003945827484" >
+        <position x="-10.243652" z="18.004837" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.031" >
+      <position x="-15.754443" z="18.142555" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="0.000100" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.031" powerScale="0.1800003945827484" >
+        <position x="-15.754443" z="18.142555" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.029" >
+      <position x="-20.834396" z="18.211414" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="0.000100" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.029" powerScale="0.1800003945827484" >
+        <position x="-20.834396" z="18.211414" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.028" >
+      <position x="-20.834402" z="21.103497" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="0.000100" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.028" powerScale="0.1800003945827484" >
+        <position x="-20.834402" z="21.103497" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.026" >
+      <position x="-15.754450" z="21.034637" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="0.000100" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.026" powerScale="0.1800003945827484" >
+        <position x="-15.754450" z="21.034637" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.025" >
+      <position x="-10.243659" z="20.896919" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="0.000100" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.025" powerScale="0.1800003945827484" >
+        <position x="-10.243659" z="20.896919" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.024" >
+      <position x="-3.344181" z="20.450409" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="0.000100" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.024" powerScale="0.1800003945827484" >
+        <position x="-3.344181" z="20.450409" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.023" >
+      <position x="-3.068745" z="15.965177" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="0.000100" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.023" powerScale="0.1800003945827484" >
+        <position x="-3.068745" z="15.965177" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.022" >
+      <position x="-2.999886" z="11.600951" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="0.000100" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.022" powerScale="0.1800003945827484" >
+        <position x="-2.999886" z="11.600951" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.021" >
+      <position x="0.511927" z="11.600951" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="0.000100" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.021" powerScale="0.1800003945827484" >
+        <position x="0.511927" z="11.600951" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.020" >
+      <position x="0.787364" z="15.965212" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="0.000100" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.020" powerScale="0.1800003945827484" >
+        <position x="0.787364" z="15.965212" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.019" >
+      <position x="0.787364" z="20.450388" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="0.000100" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.019" powerScale="0.1800003945827484" >
+        <position x="0.787364" z="20.450388" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.018" >
+      <position x="5.194345" z="20.450325" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="0.000100" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.018" powerScale="0.1800003945827484" >
+        <position x="5.194345" z="20.450325" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.017" >
+      <position x="5.400922" z="15.965080" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="0.000100" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.017" powerScale="0.1800003945827484" >
+        <position x="5.400922" z="15.965080" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.016" >
+      <position x="5.400922" z="11.600938" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="0.000100" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.016" powerScale="0.1800003945827484" >
+        <position x="5.400922" z="11.600938" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.015" >
+      <position x="18.966658" z="8.318147" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.015" powerScale="0.1800003945827484" >
+        <position x="18.966658" z="8.318147" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.014" >
+      <position x="18.966658" z="11.292942" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.014" powerScale="0.1800003945827484" >
+        <position x="18.966658" z="11.292942" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.013" >
+      <position x="19.241846" z="17.989241" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.013" powerScale="0.1800003945827484" >
+        <position x="19.241846" z="17.989241" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.012" >
+      <position x="11.309048" z="17.337160" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.012" powerScale="0.1800003945827484" >
+        <position x="11.309048" z="17.337160" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.011" >
+      <position x="11.349818" z="13.188087" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.011" powerScale="0.1800003945827484" >
+        <position x="11.349818" z="13.188087" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.010" >
+      <position x="-6.136868" z="-6.654968" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.010" powerScale="0.1800003945827484" >
+        <position x="-6.136868" z="-6.654968" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.009" >
+      <position x="-6.297974" z="-16.238693" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.009" powerScale="0.1800003945827484" >
+        <position x="-6.297974" z="-16.238693" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.006" >
+      <position x="-6.099649" z="-3.545879" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.006" powerScale="0.1800003945827484" >
+        <position x="-6.099649" z="-3.545879" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.005" >
+      <position x="18.966658" z="5.199784" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.005" powerScale="0.1800003945827484" >
+        <position x="18.966658" z="5.199784" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.004" >
+      <position x="18.966658" z="14.565217" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.004" powerScale="0.1800003945827484" >
+        <position x="18.966658" z="14.565217" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.003" >
+      <position x="19.173248" z="21.933609" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.003" powerScale="0.1800003945827484" >
+        <position x="19.173248" z="21.933609" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.002" >
+      <position x="11.309056" z="21.658154" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.002" powerScale="0.1800003945827484" >
+        <position x="11.309056" z="21.658154" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point.001" >
+      <position x="11.329431" z="9.505160" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point.001" powerScale="0.1800003945827484" >
+        <position x="11.329431" z="9.505160" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="Point" >
+      <position x="11.185084" z="5.334768" y="2.621575" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light type="point" name="Point" powerScale="0.1800003945827484" >
+        <position x="11.185084" z="5.334768" y="2.621575" />
+        <lightAttenuation range="5000" constant="1.0" linear="0.04" quadratic="0.0" />
+        <colourDiffuse r="1.0" g="1.0" b="1.0" />
+        <colourSpecular r="1.0" g="1.0" b="1.0" />
+      </light>
+    </node>
+    <node name="VesaleCeiling" >
+      <position x="0.000000" z="-0.000000" y="0.000000" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity actor="False" lock_rot_y="False" damping_trans="0.02539999969303608" mass="1.0" meshFile="VesaleCeiling.mesh" damping_rot="0.1589999943971634" velocity_max="0.0" lock_trans_z="False" ghost="False" mass_radius="1.0" inertia_tensor="0.4000000059604645" friction_z="1.0" friction_y="1.0" anisotropic_friction="False" lock_trans_y="False" name="VesaleCeiling" lock_trans_x="False" lock_rot_x="False" friction_x="1.0" velocity_min="0.0" lock_rot_z="False" physics_type="STATIC" />
+    </node>
+    <node name="VesaleWall9" >
+      <position x="0.000000" z="-0.000000" y="0.000000" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity actor="False" lock_rot_y="False" damping_trans="0.03999999910593033" mass="1.0" meshFile="VesaleWall9.mesh" damping_rot="0.10000000149011612" velocity_max="0.0" lock_trans_z="False" ghost="False" mass_radius="1.0" inertia_tensor="0.4000000059604645" friction_z="1.0" friction_y="1.0" anisotropic_friction="False" lock_trans_y="False" name="VesaleWall9" lock_trans_x="False" lock_rot_x="False" friction_x="1.0" velocity_min="0.0" lock_rot_z="False" physics_type="STATIC" />
+    </node>
+    <node name="VesaleEnclosure8" >
+      <position x="0.000000" z="-0.000000" y="0.000000" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity actor="False" lock_rot_y="False" damping_trans="0.03999999910593033" mass="1.0" meshFile="VesaleEnclosure8.mesh" damping_rot="0.10000000149011612" velocity_max="0.0" lock_trans_z="False" ghost="False" mass_radius="1.0" inertia_tensor="0.4000000059604645" friction_z="1.0" friction_y="1.0" anisotropic_friction="False" lock_trans_y="False" name="VesaleEnclosure8" lock_trans_x="False" lock_rot_x="False" friction_x="1.0" velocity_min="0.0" lock_rot_z="False" physics_type="STATIC" />
+    </node>
+    <node name="VesaleGROUND" >
+      <position x="0.000000" z="-0.000000" y="0.000000" />
+      <rotation qy="0.000000" qw="1.000000" qz="-0.000000" qx="0.000000" />
+      <scale x="1.079004" z="1.046155" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity actor="False" lock_rot_y="False" damping_trans="0.02539999969303608" mass="1.0" meshFile="VesaleGROUND.mesh" damping_rot="0.1589999943971634" velocity_max="0.0" lock_trans_z="False" ghost="False" mass_radius="1.0" inertia_tensor="0.4000000059604645" friction_z="1.0" friction_y="1.0" anisotropic_friction="False" lock_trans_y="False" name="VesaleGROUND" lock_trans_x="False" lock_rot_x="False" friction_x="1.0" velocity_min="0.0" lock_rot_z="False" physics_type="STATIC" />
+    </node>
+  </nodes>
+  <externals >
+    <item type="material" >
+      <file name="/home/ybalrid/PPD-BV/bin/media/vesale/Ceileing.material" />
+    </item>
+    <item type="material" >
+      <file name="/home/ybalrid/PPD-BV/bin/media/vesale/Wall.material" />
+    </item>
+    <item type="material" >
+      <file name="/home/ybalrid/PPD-BV/bin/media/vesale/Enclosure.material" />
+    </item>
+    <item type="material" >
+      <file name="/home/ybalrid/PPD-BV/bin/media/vesale/Ground.material" />
+    </item>
+  </externals>
+  <environment >
+    <colourAmbient r="0.0" g="0.0" b="0.0" />
+    <colourDiffuse r="0.05087608844041824" g="0.05087608844041824" b="0.05087608844041824" />
+    <colourBackground r="0.05087608844041824" g="0.05087608844041824" b="0.05087608844041824" />
+  </environment>
+</scene>

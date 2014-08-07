@@ -1,0 +1,58 @@
+Object Desk.mesh
+Pos 0.0242088 1.49012e-08 -3.39991
+PhysicShape BOX 5
+EndObject
+
+Object Desk.mesh
+Pos -0.0716937 -0.0999591 3.69931
+PhysicShape BOX 5
+EndObject
+
+Object Desk.mesh
+Pos -0.0345465 0.0170503 -1.07399
+PhysicShape BOX 5
+EndObject
+
+Object Screen.mesh
+Pos -0.0139782 0.909683 -1.25902
+PhysicShape BOX 1
+EndObject
+
+Object Screen.mesh
+Pos -0.0319685 0.820144 3.72143
+PhysicShape BOX 1
+EndObject
+
+Object Screen.mesh
+Pos -0.0144477 0.872794 -3.46658
+PhysicShape BOX 1
+EndObject
+
+Object Room.mesh
+Pos 0.179961 -1.870709 -0.0806167
+PhysicShape BOX 0
+EndObject
+
+Object Cube.mesh
+Pos -9.48275 4.38513 -0.169746
+Scale 0.150001 10.4 20.6999
+PhysicShape BOX 0
+EndObject
+
+Object Cube.mesh
+Pos 9.83793 4.46794 -0.0936477
+Scale 0.25 10.7 19.9
+PhysicShape BOX 0
+EndObject
+
+Object Cube.mesh
+Pos -0.255763 4.02678 -9.79057
+Scale 20.05 10.15 0.0999998
+PhysicShape BOX 0
+EndObject
+
+Object Room.mesh
+Pos 0.108059 8.69498 -0.316145
+PhysicShape BOX 0
+EndObject
+
