@@ -51,8 +51,8 @@ int main(void)
         //update view
         GameEngine->refresh();
 
-        std::cerr << GameEngine->getBodyParams()->Position << std::endl;
-        std::cerr << "DESK :" << debugDesk->pos() << std::endl;
+//        std::cerr << GameEngine->getBodyParams()->Position << std::endl;
+//        std::cerr << "DESK :" << debugDesk->pos() << std::endl;
     }
     
     delete GameEngine;

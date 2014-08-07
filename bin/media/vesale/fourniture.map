@@ -1,5 +1,1367 @@
-Object ComputerCase.056.mesh
-Pos 11.693402 0.795237 20.585846 
+Object Chair.452.mesh
+Pos 17.775305 -0.046873 20.641630 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.451.mesh
+Pos 16.900539 -0.046873 20.695251 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.450.mesh
+Pos 15.735045 -0.046873 20.669613 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.449.mesh
+Pos 14.784136 -0.046873 20.661207 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.448.mesh
+Pos 13.786673 -0.046873 20.713741 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.447.mesh
+Pos 12.713200 -0.046873 20.688915 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.446.mesh
+Pos 18.267950 -0.395649 12.927975 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.445.mesh
+Pos 18.329302 -0.395649 13.802231 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.444.mesh
+Pos 18.313967 -0.395649 14.967907 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.443.mesh
+Pos 18.313967 -0.395649 15.918854 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.442.mesh
+Pos 18.375315 -0.395649 16.915813 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.441.mesh
+Pos 18.359980 -0.395648 17.989464 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.440.mesh
+Pos 12.494391 -0.395649 6.898523 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.439.mesh
+Pos 13.368649 -0.395649 6.837172 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.438.mesh
+Pos 14.534325 -0.395649 6.852509 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.437.mesh
+Pos 15.485271 -0.395649 6.852509 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.436.mesh
+Pos 16.482231 -0.395648 6.791159 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.435.mesh
+Pos 17.555880 -0.395648 6.806496 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.434.mesh
+Pos 11.961941 -0.046873 13.867884 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.433.mesh
+Pos 11.946604 -0.046873 14.941534 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.432.mesh
+Pos 12.007954 -0.046873 15.938494 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.431.mesh
+Pos 12.007954 -0.046873 16.889441 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.430.mesh
+Pos 11.992617 -0.046873 18.055117 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.429.mesh
+Pos 12.053968 -0.046873 18.929373 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.428.mesh
+Pos 2.471259 -0.395649 19.420263 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.427.mesh
+Pos 3.345516 -0.395649 19.358912 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.426.mesh
+Pos 4.511193 -0.395649 19.374249 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.425.mesh
+Pos 5.462140 -0.395649 19.374249 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.424.mesh
+Pos 6.459100 -0.395649 19.312899 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.423.mesh
+Pos 7.532749 -0.395649 19.328236 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.422.mesh
+Pos -0.800047 -0.395649 19.391844 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.421.mesh
+Pos -1.873696 -0.395649 19.376507 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.420.mesh
+Pos -2.870656 -0.395649 19.437857 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.419.mesh
+Pos -3.821602 -0.395649 19.437857 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.418.mesh
+Pos -4.987278 -0.395649 19.422520 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.417.mesh
+Pos -5.861535 -0.395649 19.483871 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.416.mesh
+Pos -5.861535 -0.395649 17.505388 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.415.mesh
+Pos -4.987278 -0.395649 17.444036 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.414.mesh
+Pos -3.821602 -0.395649 17.459373 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.413.mesh
+Pos -2.870656 -0.395649 17.459373 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.412.mesh
+Pos -1.873696 -0.395649 17.398024 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.411.mesh
+Pos -0.800046 -0.395649 17.413361 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.410.mesh
+Pos 7.532749 -0.395649 17.349752 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.409.mesh
+Pos 6.459100 -0.395649 17.334415 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.408.mesh
+Pos 5.462140 -0.395649 17.395765 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.407.mesh
+Pos 4.511193 -0.395649 17.395765 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.406.mesh
+Pos 3.345517 -0.395649 17.380428 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.405.mesh
+Pos 2.471260 -0.395649 17.441780 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.404.mesh
+Pos 2.086555 -0.395649 15.738086 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.403.mesh
+Pos 2.960812 -0.395649 15.676734 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.402.mesh
+Pos 4.126488 -0.395649 15.692072 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.401.mesh
+Pos 5.077435 -0.395649 15.692072 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.400.mesh
+Pos 6.074395 -0.395649 15.630721 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.399.mesh
+Pos 7.148044 -0.395648 15.646059 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.398.mesh
+Pos -1.184751 -0.395648 15.709667 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.397.mesh
+Pos -2.258401 -0.395649 15.694329 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.396.mesh
+Pos -3.255360 -0.395649 15.755680 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.395.mesh
+Pos -4.206307 -0.395649 15.755680 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.394.mesh
+Pos -5.371983 -0.395649 15.740342 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.393.mesh
+Pos -6.246240 -0.395649 15.801694 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.392.mesh
+Pos -6.026409 -0.395649 13.823211 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.391.mesh
+Pos -5.152152 -0.395649 13.761859 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.390.mesh
+Pos -3.986475 -0.395649 13.777197 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.389.mesh
+Pos -3.035529 -0.395648 13.777197 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.388.mesh
+Pos -2.038569 -0.395648 13.715846 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.387.mesh
+Pos -0.964920 -0.395648 13.731184 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.386.mesh
+Pos 7.367876 -0.395648 13.667576 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.385.mesh
+Pos 6.294226 -0.395648 13.652238 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.384.mesh
+Pos 5.297266 -0.395648 13.713589 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.383.mesh
+Pos 4.346320 -0.395649 13.713589 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.382.mesh
+Pos 3.180644 -0.395649 13.698251 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.381.mesh
+Pos 2.306386 -0.395649 13.759603 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.380.mesh
+Pos 1.115628 -0.395649 -12.528783 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.379.mesh
+Pos 1.989884 -0.395649 -12.590135 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.378.mesh
+Pos 3.155560 -0.395649 -12.574797 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.377.mesh
+Pos 4.106507 -0.395648 -12.574797 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.376.mesh
+Pos 5.103467 -0.395648 -12.636147 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.375.mesh
+Pos 6.177116 -0.395648 -12.620810 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.374.mesh
+Pos -2.155679 -0.395648 -12.557201 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.373.mesh
+Pos -3.229328 -0.395648 -12.572539 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.372.mesh
+Pos -4.226288 -0.395648 -12.511189 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.371.mesh
+Pos -5.177235 -0.395649 -12.511189 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.370.mesh
+Pos -6.342911 -0.395649 -12.526526 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.369.mesh
+Pos -7.217168 -0.395649 -12.465175 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.368.mesh
+Pos -7.308765 -0.395649 -9.808857 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.367.mesh
+Pos -6.434508 -0.395649 -9.870209 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.366.mesh
+Pos -5.268832 -0.395649 -9.854871 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.365.mesh
+Pos -4.317885 -0.395648 -9.854871 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.364.mesh
+Pos -3.320926 -0.395648 -9.916222 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.363.mesh
+Pos -2.247276 -0.395648 -9.900884 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.362.mesh
+Pos 6.085519 -0.395648 -9.964492 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.361.mesh
+Pos 5.011869 -0.395648 -9.979830 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.360.mesh
+Pos 4.014910 -0.395648 -9.918479 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.359.mesh
+Pos 3.063963 -0.395649 -9.918479 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.358.mesh
+Pos 1.898287 -0.395649 -9.933817 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.357.mesh
+Pos 1.024030 -0.395649 -9.872465 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.356.mesh
+Pos 1.344620 -0.395649 -7.582536 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.355.mesh
+Pos 2.218877 -0.395649 -7.643888 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.354.mesh
+Pos 3.384553 -0.395649 -7.628550 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.353.mesh
+Pos 4.335499 -0.395648 -7.628550 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.352.mesh
+Pos 5.332459 -0.395648 -7.689900 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.351.mesh
+Pos 6.406108 -0.395648 -7.674562 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.350.mesh
+Pos -1.926687 -0.395648 -7.610954 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.349.mesh
+Pos -3.000336 -0.395648 -7.626292 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.348.mesh
+Pos -3.997296 -0.395648 -7.564941 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.347.mesh
+Pos -4.948243 -0.395649 -7.564941 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.346.mesh
+Pos -6.113919 -0.395649 -7.580279 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.345.mesh
+Pos -6.988176 -0.395649 -7.518928 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.344.mesh
+Pos -6.896579 -0.395649 -5.457992 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.343.mesh
+Pos -6.022322 -0.395649 -5.519343 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.342.mesh
+Pos -4.856646 -0.395649 -5.504005 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.341.mesh
+Pos -3.905699 -0.395648 -5.504005 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.340.mesh
+Pos -2.908739 -0.395648 -5.565356 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.339.mesh
+Pos -1.835090 -0.395648 -5.550018 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.338.mesh
+Pos 6.497705 -0.395648 -5.613626 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.337.mesh
+Pos 5.424056 -0.395648 -5.628964 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.336.mesh
+Pos 4.427096 -0.395648 -5.567613 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.335.mesh
+Pos 3.476150 -0.395649 -5.567614 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.334.mesh
+Pos 2.310473 -0.395649 -5.582952 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.333.mesh
+Pos 1.436216 -0.395649 -5.521600 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.332.mesh
+Pos 1.482015 -0.395649 -3.094275 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.331.mesh
+Pos 2.356272 -0.395649 -3.155627 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.330.mesh
+Pos 3.521948 -0.395649 -3.140289 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.329.mesh
+Pos 4.472895 -0.395648 -3.140288 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.328.mesh
+Pos 5.469854 -0.395648 -3.201640 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.327.mesh
+Pos 6.543504 -0.395648 -3.186302 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.326.mesh
+Pos -1.789292 -0.395648 -3.122694 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.325.mesh
+Pos -2.862941 -0.395648 -3.138031 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.324.mesh
+Pos -3.859901 -0.395648 -3.076680 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.323.mesh
+Pos -4.810847 -0.395649 -3.076680 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.322.mesh
+Pos -5.976523 -0.395649 -3.092018 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.321.mesh
+Pos -10.947554 -0.395649 -17.862486 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.320.mesh
+Pos -10.815032 -0.395649 -16.890661 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.319.mesh
+Pos -10.969641 -0.395649 -15.985097 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.318.mesh
+Pos -10.969641 -0.395649 -15.057446 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.317.mesh
+Pos -10.837119 -0.395649 -13.908925 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.316.mesh
+Pos -10.815032 -0.395649 -13.047534 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.315.mesh
+Pos -10.748771 -0.395649 -11.987361 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.314.mesh
+Pos -10.726684 -0.395649 -11.059710 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.313.mesh
+Pos -10.770858 -0.395649 -10.065797 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.312.mesh
+Pos -10.632812 -0.395649 -8.900084 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.311.mesh
+Pos -10.678827 -0.395649 -8.025799 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.310.mesh
+Pos -10.617474 -0.395649 -7.136175 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.309.mesh
+Pos -10.678827 -0.395649 -6.231213 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.308.mesh
+Pos -10.632812 -0.395649 -5.402943 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.307.mesh
+Pos -10.464089 -0.395649 -4.099185 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.306.mesh
+Pos -10.387398 -0.395649 -3.132869 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.305.mesh
+Pos -6.850780 -0.395649 -3.030667 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.304.mesh
+Pos -17.665432 -0.395649 -17.917593 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.303.mesh
+Pos -17.555510 -0.395649 -16.983246 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.302.mesh
+Pos -17.720394 -0.395649 -15.938976 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.301.mesh
+Pos -17.610472 -0.395649 -15.279437 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.300.mesh
+Pos -17.610472 -0.395649 -14.015321 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.299.mesh
+Pos -17.610472 -0.395649 -13.355782 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.298.mesh
+Pos -17.610472 -0.395649 -12.146626 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.297.mesh
+Pos -17.500549 -0.395649 -11.377164 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.296.mesh
+Pos -17.500549 -0.395649 -10.277932 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.295.mesh
+Pos -17.445587 -0.395649 -9.453508 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.294.mesh
+Pos -17.500549 -0.395649 -8.189392 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.293.mesh
+Pos -17.335665 -0.395649 -7.090160 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.292.mesh
+Pos -18.215050 -0.395649 11.486855 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.291.mesh
+Pos -18.270012 -0.395649 12.476163 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.290.mesh
+Pos -18.379934 -0.395649 14.015087 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.289.mesh
+Pos -18.324972 -0.395649 15.279203 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.288.mesh
+Pos -18.434895 -0.395649 16.708204 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.287.mesh
+Pos -18.215048 -0.395649 18.027283 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.286.mesh
+Pos -18.270010 -0.395649 19.016592 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.285.mesh
+Pos -18.105125 -0.395649 20.060862 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.284.mesh
+Pos -10.465466 -0.395649 20.720400 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.283.mesh
+Pos -10.355542 -0.395649 19.566206 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.282.mesh
+Pos -10.300581 -0.395649 17.972321 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.281.mesh
+Pos -10.740273 -0.395649 17.092936 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.280.mesh
+Pos -10.520427 -0.395649 15.608974 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.279.mesh
+Pos -10.685311 -0.395649 14.125010 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.278.mesh
+Pos -10.630350 -0.395649 12.970818 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.277.mesh
+Pos -10.410503 -0.395649 11.871586 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.276.mesh
+Pos -10.685311 -0.395649 10.827315 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.275.mesh
+Pos -10.795235 -0.395649 9.838007 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.274.mesh
+Pos -13.818121 -0.395649 7.254812 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.273.mesh
+Pos -14.752468 -0.395649 7.364736 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.272.mesh
+Pos -15.851700 -0.395649 7.309774 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.271.mesh
+Pos -16.731085 -0.395649 7.364736 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.270.mesh
+Pos -18.050163 -0.395649 7.639544 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.269.mesh
+Pos -13.323468 -0.395649 11.376931 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.268.mesh
+Pos -13.433392 -0.395649 12.311278 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.267.mesh
+Pos -13.213545 -0.395649 13.685318 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.266.mesh
+Pos -13.268506 -0.395649 15.004396 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.265.mesh
+Pos -13.378429 -0.395649 16.268513 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.264.mesh
+Pos -13.213545 -0.395649 17.147898 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.263.mesh
+Pos -13.378429 -0.395649 19.181477 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.262.mesh
+Pos -13.488353 -0.395649 20.280708 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.261.mesh
+Pos -19.534126 -0.395649 20.335670 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.260.mesh
+Pos -19.534126 -0.395649 19.291401 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.259.mesh
+Pos -19.259319 -0.395649 17.807438 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.258.mesh
+Pos -19.534126 -0.395649 16.653244 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.257.mesh
+Pos -19.204357 -0.395649 14.784551 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.256.mesh
+Pos -19.424204 -0.395649 13.245626 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.255.mesh
+Pos -19.369242 -0.395649 12.311279 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.254.mesh
+Pos -19.479164 -0.395649 11.321971 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.253.mesh
+Pos -19.479164 -0.395649 10.112816 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.252.mesh
+Pos -19.589087 -0.395649 9.068546 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.251.mesh
+Pos -19.479164 -0.395649 7.639545 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.250.mesh
+Pos -19.808933 -0.395649 6.375429 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.249.mesh
+Pos -13.213545 -0.395649 -17.752707 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.248.mesh
+Pos -13.048660 -0.395649 -16.818359 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.247.mesh
+Pos -13.213545 -0.395649 -15.609205 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.246.mesh
+Pos -12.993698 -0.395649 -14.290127 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.245.mesh
+Pos -13.048659 -0.395649 -13.355780 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.244.mesh
+Pos -13.048659 -0.395649 -12.311509 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.243.mesh
+Pos -12.993698 -0.395649 -11.871817 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.242.mesh
+Pos -12.938737 -0.395649 -10.717624 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.241.mesh
+Pos -12.883776 -0.395649 -9.563431 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.240.mesh
+Pos -12.828815 -0.395649 -8.024507 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.239.mesh
+Pos -12.883776 -0.395649 -7.090160 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.238.mesh
+Pos -19.918858 -0.395649 -8.958854 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.237.mesh
+Pos -19.863895 -0.395649 -9.948162 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.236.mesh
+Pos -19.808933 -0.395649 -11.102355 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.235.mesh
+Pos -19.863895 -0.395649 -12.201587 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.234.mesh
+Pos -19.973818 -0.395649 -13.410742 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.233.mesh
+Pos -19.973818 -0.395649 -14.400050 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.232.mesh
+Pos -19.918856 -0.395649 -15.554243 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.231.mesh
+Pos -19.808933 -0.395649 -16.653475 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.230.mesh
+Pos -19.808933 -0.395649 -17.642784 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.229.mesh
+Pos -3.158293 -0.395649 11.374612 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.228.mesh
+Pos -15.147817 -0.395648 -0.802368 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.179.mesh
+Pos -18.865072 0.115688 5.974977 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.178.mesh
+Pos -18.085291 0.115688 5.901050 
+Orent 0.000000 0.000000 -0.000000 1.000000 
+PhysicShape BOX 10
+EndObject
+
+Object Chair.058.mesh
+Pos -16.466984 -0.395648 -0.802368 
 Orent 0.000000 0.000000 -0.000000 1.000000 
 PhysicShape BOX 10
 EndObject
