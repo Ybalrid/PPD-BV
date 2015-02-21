@@ -1,8 +1,7 @@
 #include <Annwvyn.h>
-#include "JoystickController.hpp"
 using namespace Annwvyn;
 
-int main(void)
+AnnMain()
 {
     AnnEngine* GameEngine = new AnnEngine("PPD Balade Virtuelle");
     
@@ -32,22 +31,15 @@ int main(void)
     //load vesale !!!!
     AnnMap(GameEngine, "media/vesale/vesale.map");
     AnnMap B(GameEngine, "media/vesale/fourniture.map");    
-    AnnGameObject* debugDesk =  B.getContent()[0];
     
 
 
-    //configure joystick
-    JoystickController joystickController(GameEngine);
-    joystickController.setRotateAxis(3);
-    joystickController.setReverseRotate(false);
+   
     
 //    GameEngine->setDebugPhysicState(true);
     
     while(!GameEngine->requestStop())
-    {
-        //update joystick
-        joystickController.update();
-        
+    {        
         //update view
         GameEngine->refresh();
 
